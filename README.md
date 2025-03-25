@@ -1,2 +1,2 @@
-# CRUDmongodb
-Estudo de banco de dados MongoDB
+# crud-nodejs-mysql
+Atividade de CRUD,nodjs e  mysql
